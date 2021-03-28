@@ -23,6 +23,11 @@ To add more features to this project, or to simply view the code in action...
 4. Enter `npm run serve` to run the app on a local server or open the code in your text editor.  
 5. The app should open automatically, but you can also navigate to `http://localhost:8080/` to view the app as well.
 
+OR
+
+Visit the deployer site here: 
+[Vueniverse](https://vueniverse.vercel.app/)
+
 ## Additional Features
 
 - A full testing suite using Cypress.io, which incorporates Mocha and Chai, that tests all user flows.
